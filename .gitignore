@@ -5,3 +5,4 @@ Packages
 *.pkg
 Kitura-WebSocket.xcodeproj
 *.DS_Store
+/Package.resolved
